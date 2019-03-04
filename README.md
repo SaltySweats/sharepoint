@@ -2,6 +2,7 @@
 Repository for testing various sharepoint functionalities
 
 # Base Pattern
+```javascript
 $object = (function () {
 
     return {
@@ -24,3 +25,4 @@ $object = (function () {
 
     }
 })();
+```
